@@ -4,7 +4,7 @@ The tool for creating a network analyst and determining the most popular routes 
 ## Summary
 The script creates network analyzes in ArcMap. The final result in the road layer has the counted number of journeys of each road section in the attribute table in the "join_count" column
 
-## Running
+## Setup
 Download all files and put them in a folder. Change the path in the script and run
 
 ## Data Source
