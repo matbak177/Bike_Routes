@@ -7,7 +7,6 @@ The tool for creating a network analyst and determining the most popular routes 
 * station
 
 ## Technologies
-* Python 2.7
-* Library : arcpy, os
+* Python 2.7 - library arcpy,os
 * ArcMap 10.6
 
