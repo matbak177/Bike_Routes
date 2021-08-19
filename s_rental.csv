@@ -1,0 +1,223 @@
+id;stacja_r;s_rental
+1;15001;Plac Dominikañski (Galeria Dominikañska)
+2;15002;Dworzec G³ówny, po³udnie
+3;15003;Rynek
+4;15004;Dworzec G³ówny
+5;15005;Nowowiejska / Jednoœci Narodowej
+6;15006;Legnicka / Wejherowska
+7;15007;Rondo Reagana
+8;15008;Pereca / Grabiszyñska
+9;15009;Powstañców Œl¹skich / Aleja Hallera
+10;15010;Grabiszyñska / Aleja Hallera
+11;15011;Szczêœliwa (Sky Tower)
+12;15012;Œrubowa / Strzegomska
+13;15013;Na Grobli (PWr - Geocentrum)
+14;15014;Lotnicza / Na Ostatnim Groszu
+15;15015;Dyrekcyjna / Borowska (Wroclavia)
+16;15016;Kamienna / Borowska (Aquapark)
+17;15017;Wyszyñskiego / Szczytnicka
+18;15018;Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM)
+19;15019;Borowska (Uniw. Szpital Kliniczny)
+20;15020;Legnicka (Park Magnolia)
+21;15021;Kurkowa / Dubois
+22;15022;Jagie³³y / Dmowskiego
+23;15023;Plac Powstañców Œl¹skich
+24;15024;Wróblewskiego (ZOO)
+25;15025;Œlê¿na / Aleja Wiœniowa
+26;15026;Trymanda / Miñska
+27;15027;Janiszewskiego (PWr)
+28;15028;Norwida / Wyspiañskiego (PWr)
+29;15029;Plac Œwiêtego Macieja / Trzebnicka
+30;15030;Miñska / stanis³awowska
+31;15031;Traktatowa (przystanek kolejowy)
+32;15032;Wita Stwosza / Szewska
+33;15033;Plac Koœciuszki (Renoma)
+34;15034;Plac Jana Paw³a II (Akademia Muzyczna)
+35;15035;Plac Uniwersytecki (UWr)
+36;15036;Fabryczna / Wagonowa
+37;15037;Plac Legionów
+38;15038;Œwidnicka / Pi³sudskiego (Hotel Scandic)
+39;15039;Koœciuszki / Pu³askiego
+40;15040;Plac Powstañców Warszawy (Muzeum Narodowe)
+41;15041;Koœciuszki / Komuny Paryskiej / Zgodna
+42;15042;Traugutta / Pu³askiego
+43;15043;Stacyjna (Dworzec Miko³ajów)
+44;15044;Plac Strzegomski / Poznañska
+45;15045;Zachodnia / Poznañska
+46;15046;Drobnera / Dubois
+47;15047;Poniatowskiego / Oleœnicka
+48;15048;Nowowiejska / Wyszyñskiego
+49;15049;¯eromskiego / Daszyñskiego
+50;15050;¯eromskiego / Kluczborska
+51;15051;Joliot-Curie (Uwr)
+52;15052;Sienkiewicza / Piastowska
+53;15053;Sienkiewicza / Wyszyñskiego
+54;15054;Plac Grunwaldzki / Polaka
+55;15055;Wróblewskiego (Teki)
+56;15056;Komandorska / Sanocka
+57;15057;Œlê¿na / Kamienna (Uniw. Ekonomiczny)
+58;15058;Oporów (pêtla tramwajowa)
+59;15059;Zaporoska / Gajowicka
+60;15060;Traugutta / Koœciuszki
+61;15061;Nowowiejska / Górnickiego
+62;15062;Plac Grunwaldzki (DS O³ówek)
+63;15063;Zaporoska / Grabiszyñska
+64;15064;Grabiszyñska / Stalowa
+65;15065;Krucza / Mielecka / Stalowa
+66;15066;Aleja Hallera / Mielecka
+67;15067;Grochowa / Jemio³owa
+68;15068;Powstañców Œl¹skich (Arkady Wroc³awskie)
+69;15069;Legnicka / M³odych Techników
+70;15070;¯elazna / Pereca
+71;15072;Szewska / Kazimierza Wielkiego
+72;15073;Na Ostatnim Groszu
+73;15074;Grabiszyñska / Magazynierska (Corte Verona)
+74;15075;Legnicka / Zachodnia
+75;15076;Robotnicza / Fabryczna
+76;15077;Fosa Miejska
+77;15078;£ukasiewicza / Smoluchowskiego (PWr)
+78;15079;Kazimierza Wielkiego (Helios)
+79;15080;Drobnera / Plac Bema
+80;15081;Krzywoustego - Rynek Psie Pole
+81;15082;Pilczycka / Kozanowska
+82;15083;Aleja Kromera
+83;15084;Leœnica - pêtla tramwajowa
+84;15085;Krzycka / Aleja Karkonoska (Park Po³udniowy)
+85;15086;Moœcickiego (stacja kolejowa)
+86;15094;¯migrodzka / Broniewskiego
+87;15087;Zwyciêska / O³taszyñska
+88;15088;Strzegomska / Estoñska
+89;15089;Œwieradowska (Ferio Gaj )
+90;15090;Wa³brzyska - pêtla tramwajowa
+91;15091;Buforowa - Vivaldiego
+92;15092;Pilczycka (Stadion Miejski)
+93;15093;Bardzka / Piêkna
+94;15095;Tyrmanda / Trawowa
+95;15096;Zatorska / Królewska - pêtla MPK
+96;15097;Marca Polo (Olimpia Port)
+97;15098;Osobowicka - pêtla tramwajowa
+98;15099;Waniliowa / Cynamonowa
+99;15100;¯ernicka
+100;15251;Promenady Wroc³awskie
+101;15252;Centrum Handlowe Auchan Bielany
+102;15253;Aleja Bielany
+103;15101;Obornicka / Ba³tycka
+104;15102;Berenta / Kasprowicza
+105;15103;Kraszewskiego / Trzebnicka
+106;15104;Grota-Roweckiego / Parafialna
+107;15105;Œwieradowska / Krynicka
+108;15106;Krzywoustego / Korona
+109;15107;Rogowska / Zemska
+110;15108;Hermanowska / Ko³obrzeska
+111;15109;Solskiego / al. Piastów
+112;15110;Czekoladowa / Wa³brzyska
+113;15111;Tarnogajska / Klimasa
+114;15112;Opolska / pêtla tramwajowa
+115;15113;Graniczna / Strzegomska
+116;15114;¯migrodzka / Marino
+117;15115;Strachowskiego / Parafialna
+118;15116;Zwyciêska / Agrestowa
+119;15117;al. Karkonoska / JeŸdziecka
+120;15118;Œlê¿na / Skierniewicka
+121;15119;Strzegomska / Rogowska
+122;15120;Karwiñska / Opolska
+123;15121;Reymonta / Kleczkowska
+124;15122;M³odych Techników
+125;15123;Popowicka / NiedŸwiedzia
+126;15124;Lotnicza / Metalowców
+127;15125;Zaporoska / Wielka / Krucza
+128;15126;Maœlicka / Stodolna
+129;15127;Bystrzycka / Idzikowskiego
+130;15128;al. Kochanowskiego / Œniadeckich
+131;15129;al. Brücknera / Kwidzyñska
+132;15130;Kozanowska / Pilczycka
+133;15131;Pilczycka / Koszykarska
+134;15132;al. Jana III Sobieskiego / stacja kolejowa
+135;15133;Kamieñskiego / Jutrosiñska
+136;15134;Semaforowa
+137;15135;Olszewskiego / Spó³dzielcza
+138;15136;Olszewskiego, pêtla tramwajowa
+139;15137;Bacciarellego
+140;15138;al. Kochanowskiego / Kopernika
+141;15139;Ba³tycka / ¯migrodzka
+142;15140;Bezpieczna / Obornicka
+143;15141;Drzewieckiego / Dedala
+144;15142;Œlê¿na / pêtla tramwajowa
+145;15143;Moœcickiego / Chiñska
+146;15144;Krakowska / Leroy Merlin
+147;15145;Koszarowa / UWr
+148;15146;So³tysowicka / Redycka
+149;15147;al. Poprzeczna / stacja kolejowa
+150;15148;PrzyjaŸni / Karkonoska
+151;15149;PrzyjaŸni
+152;15150;Konduktorska
+153;15151;Jerzmanowska
+154;15152;Nyska / Piêkna
+155;15153;pl. Powstañców Wielkopolskich
+156;15154;Plac Staszica
+157;15155;Jednoœci Narodowej / Wyszyñskiego
+158;15156;Mickiewicza / pêtla tramwajowa
+159;15157;al. Armii Krajowej / Borowska
+160;15158;Gliniana / Gajowa
+161;15159;Kamienna / Tomaszowska
+162;15160;al. Armii Krajowej / Bardzka
+163;15161;Hallera / Odkrywców
+164;15162;Skarbowców / Wietrzna
+165;15163;Rac³awicka / Rymarska
+166;15164;Lotnicza / Bajana
+167;15165;Strachociñska / Wieœniacza
+168;15166;Ksiêgarska / Dekarska / Zduñska
+169;15168;Nyska / Jesionowa
+170;15169;al. Armii Krajowej / Tarnogajska
+171;15170;Prochowicka / Dolnobrzeska
+172;15171;Boguszowska / Kosmonautów
+173;15172;Popowicka
+174;15173;Kosmonautów / Glinianki / WUWA2
+175;15174;Wilanowska
+176;15175;Okulickiego
+177;15176;Poleska / Litewska
+178;15177;Bacciarellego / pêtla autobusowa
+179;15178;Œredzka / Dolnobrzeska
+180;15179;Mi³oszycka / Swojczycka
+181;15180;Stab³owicka / G³ówna
+182;15181;Wojanowska / Arbuzowa
+183;15182;Osobowicka / Ostrowska
+184;15183;Kie³czowska
+185;15184;Gorlicka / Litewska
+186;15185;Kasprowicza / Syrokomli
+187;15186;Paprotna / Obornicka, zajezdnia MPK
+188;15187;Kosmonautów / Fieldorfa, szpital wojewódzki
+189;15188;Stab³owicka
+190;15189;Mr¹gowska / Rolna
+191;15190;Partyzantów / Okrzei
+192;15191;Hubska / Prudnicka
+193;15192;Jagodziñska / Buforowa
+194;15193;Ko³³¹taja / Podwale
+195;15194;Opolska / Siemianowicka
+196;15195;Piaskowa / œw. Ducha
+197;15196;Kleciñska / Duñska
+198;15197;pl. Orl¹t Lwowskich
+199;15198;Komandorska / Kamienna
+200;15199;Wroc³aw Stadion, stacja kolejowa
+201;15200;Wroc³aw Leœnica, stacja kolejowa
+202;15167;Stadion Olimpijski
+203;15254;Popowice
+204;15255;Grota-Roweckiego / Iwaszkiewicza
+205;15256;Kowalska/Lechitów
+206;15257;Kamieñskiego
+207;15258;Lubelska/£ukowska
+208;15259;Kwidzyñska pêtla
+209;15260;Rakowiecka
+210;15261;Powstañców Œl¹skich/Orla
+211;15262;Angel
+212;15263;Kleciñska (Wroc³aw Grabiszyn)
+213;15264;Rogowska/Sukielicka
+214;15265;Kozanowska/Pa³ucka
+215;15266;Pi³awska
+216;15267;Gorlicka/Stanety
+217;15268;3M
+218;15269;Gazowa/Miêdzyleska
+219;15270;Bezpieczna/Jugos³awiañska
+220;15271;Pi³sudskiego 13 od Jump Hall
+221;15272;Bardzka (cmentarz)
+222;15273;Fabryczna (WSB)

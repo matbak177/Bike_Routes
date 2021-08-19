@@ -1,0 +1,223 @@
+id;stacja;nazwa;szerokosc;dlugosc;stojaki
+1;15001;Plac Dominikañski (Galeria Dominikañska);51.108004;17.039528;16
+2;15002;Dworzec G³ówny, po³udnie;51.09710806;17.03610957;16
+3;15003;Rynek;51.109782;17.030175;16
+4;15004;Dworzec G³ówny;51.09975;17.036228;16
+5;15005;Nowowiejska / Jednoœci Narodowej;51.124879;17.045844;10
+6;15006;Legnicka / Wejherowska;51.125276;16.984447;10
+7;15007;Rondo Reagana;51.112154;17.060451;16
+8;15008;Pereca / Grabiszyñska;51.100862;17.008224;10
+9;15009;Powstañców Œl¹skich / Aleja Hallera;51.086689;17.01248;14
+10;15010;Grabiszyñska / Aleja Hallera;51.094413;16.980911;16
+11;15011;Szczêœliwa (Sky Tower);51.094521;17.020876;16
+12;15012;Œrubowa / Strzegomska;51.112911;17.00136;10
+13;15013;Na Grobli (PWr - Geocentrum);51.105207;17.053675;16
+14;15014;Lotnicza / Na Ostatnim Groszu;51.126907;16.978759;16
+15;15015;Dyrekcyjna / Borowska (Wroclavia);51.095322;17.033388;10
+16;15016;Kamienna / Borowska (Aquapark);51.088908;17.034051;16
+17;15017;Wyszyñskiego / Szczytnicka;51.11356205;17.05067396;16
+18;15018;Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM);51.111727;17.06768;16
+19;15019;Borowska (Uniw. Szpital Kliniczny);51.074868;17.032457;12
+20;15020;Legnicka (Park Magnolia);51.121059;16.993088;16
+21;15021;Kurkowa / Dubois;51.118237;17.028792;10
+22;15022;Jagie³³y / Dmowskiego;51.116612;17.023873;10
+23;15023;Plac Powstañców Œl¹skich;51.091457;17.017405;10
+24;15024;Wróblewskiego (ZOO);51.10592;17.075857;10
+25;15025;Œlê¿na / Aleja Wiœniowa;51.084239;17.02439;10
+26;15026;Trymanda / Miñska;51.103216;16.9461;10
+27;15027;Janiszewskiego (PWr);51.109332;17.060511;16
+28;15028;Norwida / Wyspiañskiego (PWr);51.107235;17.060715;16
+29;15029;Plac Œwiêtego Macieja / Trzebnicka;51.120474;17.036641;10
+30;15030;Miñska / stanis³awowska;51.099401;16.941016;6
+31;15031;Traktatowa (przystanek kolejowy);51.11236;16.973689;10
+32;15032;Wita Stwosza / Szewska;51.110274;17.034912;16
+33;15033;Plac Koœciuszki (Renoma);51.103354;17.030704;16
+34;15034;Plac Jana Paw³a II (Akademia Muzyczna);51.111489;17.020981;10
+35;15035;Plac Uniwersytecki (UWr);51.113871;17.034484;14
+36;15036;Fabryczna / Wagonowa;51.1124406;16.988554;10
+37;15037;Plac Legionów;51.104413;17.022536;10
+38;15038;Œwidnicka / Pi³sudskiego (Hotel Scandic);51.101322;17.028528;16
+39;15039;Koœciuszki / Pu³askiego;51.1004;17.045083;6
+40;15040;Plac Powstañców Warszawy (Muzeum Narodowe);51.110001;17.047736;10
+41;15041;Koœciuszki / Komuny Paryskiej / Zgodna;51.098959;17.051519;10
+42;15042;Traugutta / Pu³askiego;51.104571;17.048102;10
+43;15043;Stacyjna (Dworzec Miko³ajów);51.115354;16.998732;10
+44;15044;Plac Strzegomski / Poznañska;51.113703;17.006287;10
+45;15045;Zachodnia / Poznañska;51.117668;17.007137;10
+46;15046;Drobnera / Dubois;51.117032;17.033499;16
+47;15047;Poniatowskiego / Oleœnicka;51.121308;17.043077;10
+48;15048;Nowowiejska / Wyszyñskiego;51.122424;17.052013;10
+49;15049;¯eromskiego / Daszyñskiego;51.12566;17.050463;6
+50;15050;¯eromskiego / Kluczborska;51.122313;17.047515;6
+51;15051;Joliot-Curie (Uwr);51.110662;17.052712;16
+52;15052;Sienkiewicza / Piastowska;51.115564;17.060704;10
+53;15053;Sienkiewicza / Wyszyñskiego;51.116822;17.051845;10
+54;15054;Plac Grunwaldzki / Polaka;51.110415;17.055591;16
+55;15055;Wróblewskiego (Teki);51.10411;17.084711;16
+56;15056;Komandorska / Sanocka;51.094653;17.026775;10
+57;15057;Œlê¿na / Kamienna (Uniw. Ekonomiczny);51.089842;17.028225;10
+58;15058;Oporów (pêtla tramwajowa);51.08451;16.97223;6
+59;15059;Zaporoska / Gajowicka;51.097209;17.013967;10
+60;15060;Traugutta / Koœciuszki;51.097147;17.056251;10
+61;15061;Nowowiejska / Górnickiego;51.119311;17.056784;10
+62;15062;Plac Grunwaldzki (DS O³ówek);51.113912;17.067207;16
+63;15063;Zaporoska / Grabiszyñska;51.102117;17.013683;10
+64;15064;Grabiszyñska / Stalowa;51.099354;17.000697;10
+65;15065;Krucza / Mielecka / Stalowa;51.093426;17.002893;10
+66;15066;Aleja Hallera / Mielecka;51.089315;17.001501;10
+67;15067;Grochowa / Jemio³owa;51.095597;17.008045;6
+68;15068;Powstañców Œl¹skich (Arkady Wroc³awskie);51.099713;17.027905;10
+69;15069;Legnicka / M³odych Techników;51.113141;17.012175;10
+70;15070;¯elazna / Pereca;51.098027;17.006977;10
+71;15072;Szewska / Kazimierza Wielkiego;51.107471;17.033335;16
+72;15073;Na Ostatnim Groszu;51.122636;16.975708;10
+73;15074;Grabiszyñska / Magazynierska (Corte Verona);51.096659;16.988566;6
+74;15075;Legnicka / Zachodnia;51.117155;17.000368;10
+75;15076;Robotnicza / Fabryczna;51.11277;16.994446;10
+76;15077;Fosa Miejska;51.104163;17.031115;10
+77;15078;£ukasiewicza / Smoluchowskiego (PWr);51.108288;17.064884;16
+78;15079;Kazimierza Wielkiego (Helios);51.110342;17.02601;16
+79;15080;Drobnera / Plac Bema;51.117557;17.040967;10
+80;15081;Krzywoustego - Rynek Psie Pole;51.147339;17.11452;10
+81;15082;Pilczycka / Kozanowska;51.13699;16.966199;10
+82;15083;Aleja Kromera;51.132259;17.065453;10
+83;15084;Leœnica - pêtla tramwajowa;51.145074;16.871502;10
+84;15085;Krzycka / Aleja Karkonoska (Park Po³udniowy);51.074992;17.007058;10
+85;15086;Moœcickiego (stacja kolejowa);51.063834;17.083366;10
+86;15094;¯migrodzka / Broniewskiego;51.136111;17.036262;10
+87;15087;Zwyciêska / O³taszyñska;51.059458;17.006542;10
+88;15088;Strzegomska / Estoñska;51.111874;16.960692;10
+89;15089;Œwieradowska (Ferio Gaj );51.07692;17.041439;10
+90;15090;Wa³brzyska - pêtla tramwajowa;51.0657771;16.98857546;10
+91;15091;Buforowa - Vivaldiego;51.051546;17.059094;6
+92;15092;Pilczycka (Stadion Miejski);51.143633;16.950712;10
+93;15093;Bardzka / Piêkna;51.085018;17.049193;10
+94;15095;Tyrmanda / Trawowa;51.100211;16.951602;6
+95;15096;Zatorska / Królewska - pêtla MPK;51.16033211;17.13368297;6
+96;15097;Marca Polo (Olimpia Port);51.110299;17.117854;10
+97;15098;Osobowicka - pêtla tramwajowa;51.137856;16.994273;10
+98;15099;Waniliowa / Cynamonowa;51.17592;16.998482;6
+99;15100;¯ernicka;51.123237;16.924321;6
+100;15251;Promenady Wroc³awskie;51.12887567;17.04499841;10
+101;15252;Centrum Handlowe Auchan Bielany;51.052723;16.968801;10
+102;15253;Aleja Bielany;51.048391;16.961699;10
+103;15101;Obornicka / Ba³tycka;51.136786;17.030368;16
+104;15102;Berenta / Kasprowicza;51.13833;17.06063;10
+105;15103;Kraszewskiego / Trzebnicka;51.12843;17.0363;10
+106;15104;Grota-Roweckiego / Parafialna;51.06277;17.0321;10
+107;15105;Œwieradowska / Krynicka;51.077147;17.046785;10
+108;15106;Krzywoustego / Korona;51.14035;17.08494;10
+109;15107;Rogowska / Zemska;51.11869;16.95336;10
+110;15108;Hermanowska / Ko³obrzeska;51.12353;16.95059;10
+111;15109;Solskiego / al. Piastów;51.0775;16.96396;10
+112;15110;Czekoladowa / Wa³brzyska;51.06404;16.97753;6
+113;15111;Tarnogajska / Klimasa;51.08015;17.06228;10
+114;15112;Opolska / pêtla tramwajowa;51.07748;17.08405;10
+115;15113;Graniczna / Strzegomska;51.10702;16.94971;10
+116;15114;¯migrodzka / Marino;51.15013;17.02903;10
+117;15115;Strachowskiego / Parafialna;51.05725;17.02247;10
+118;15116;Zwyciêska / Agrestowa;51.0586;17.01411;10
+119;15117;al. Karkonoska / JeŸdziecka;51.061634;16.996738;6
+120;15118;Œlê¿na / Skierniewicka;51.07708;17.01824;10
+121;15119;Strzegomska / Rogowska;51.11059;16.95514;10
+122;15120;Karwiñska / Opolska;51.08149;17.07693;10
+123;15121;Reymonta / Kleczkowska;51.12695;17.02804;10
+124;15122;M³odych Techników;51.118899;17.013477;10
+125;15123;Popowicka / NiedŸwiedzia;51.12599;16.99725;10
+126;15124;Lotnicza / Metalowców;51.13258;16.95697;10
+127;15125;Zaporoska / Wielka / Krucza;51.09431;17.01479;6
+128;15126;Maœlicka / Stodolna;51.15755;16.92781;6
+129;15127;Bystrzycka / Idzikowskiego;51.12658;16.95499;6
+130;15128;al. Kochanowskiego / Œniadeckich;51.12021;17.07779;6
+131;15129;al. Brücknera / Kwidzyñska;51.13198;17.07945;10
+132;15130;Kozanowska / Pilczycka;51.13252;16.97377;10
+133;15131;Pilczycka / Koszykarska;51.140713;16.958199;10
+134;15132;al. Jana III Sobieskiego / stacja kolejowa;51.150227;17.118549;16
+135;15133;Kamieñskiego / Jutrosiñska;51.147082;17.042321;10
+136;15134;Semaforowa;51.05927;17.07877;6
+137;15135;Olszewskiego / Spó³dzielcza;51.10209;17.10168;10
+138;15136;Olszewskiego, pêtla tramwajowa;51.101431;17.108481;6
+139;15137;Bacciarellego;51.105578;17.111316;10
+140;15138;al. Kochanowskiego / Kopernika;51.11514;17.07436;10
+141;15139;Ba³tycka / ¯migrodzka;51.13959;17.03216;10
+142;15140;Bezpieczna / Obornicka;51.14156;17.02587;10
+143;15141;Drzewieckiego / Dedala;51.125652;16.968627;10
+144;15142;Œlê¿na / pêtla tramwajowa;51.072302;17.012384;10
+145;15143;Moœcickiego / Chiñska;51.05909;17.08687;10
+146;15144;Krakowska / Leroy Merlin;51.09053;17.06373;6
+147;15145;Koszarowa / UWr;51.14128;17.06613;16
+148;15146;So³tysowicka / Redycka;51.14905;17.07565;4
+149;15147;al. Poprzeczna / stacja kolejowa;51.142596;17.081411;6
+150;15148;PrzyjaŸni / Karkonoska;51.06841;17.00399;6
+151;15149;PrzyjaŸni;51.06667;16.99435;10
+152;15150;Konduktorska;51.06628;17.05825;4
+153;15151;Jerzmanowska;51.120913;16.876257;10
+154;15152;Nyska / Piêkna;51.08476;17.05309;10
+155;15153;pl. Powstañców Wielkopolskich;51.12469;17.03488;10
+156;15154;Plac Staszica;51.12274;17.03061;10
+157;15155;Jednoœci Narodowej / Wyszyñskiego;51.12814;17.05477;10
+158;15156;Mickiewicza / pêtla tramwajowa;51.11397;17.10395;6
+159;15157;al. Armii Krajowej / Borowska;51.08361;17.03523;10
+160;15158;Gliniana / Gajowa;51.09152;17.04033;10
+161;15159;Kamienna / Tomaszowska;51.087764;17.039318;10
+162;15160;al. Armii Krajowej / Bardzka;51.08283;17.04824;10
+163;15161;Hallera / Odkrywców;51.09126;16.98581;4
+164;15162;Skarbowców / Wietrzna;51.07329;16.99485;6
+165;15163;Rac³awicka / Rymarska;51.08022;16.99467;10
+166;15164;Lotnicza / Bajana;51.13004;16.96605;6
+167;15165;Strachociñska / Wieœniacza;51.10666;17.14298;4
+168;15166;Ksiêgarska / Dekarska / Zduñska;51.17759;17.01588;6
+169;15168;Nyska / Jesionowa;51.08729;17.05115;6
+170;15169;al. Armii Krajowej / Tarnogajska;51.083551;17.060519;6
+171;15170;Prochowicka / Dolnobrzeska;51.15127;16.86564;6
+172;15171;Boguszowska / Kosmonautów;51.14395;16.89012;10
+173;15172;Popowicka;51.127778;16.990915;10
+174;15173;Kosmonautów / Glinianki / WUWA2;51.13884;16.93191;10
+175;15174;Wilanowska;51.15509;17.13249;6
+176;15175;Okulickiego;51.16077283;17.12273419;10
+177;15176;Poleska / Litewska;51.142323;17.127246;10
+178;15177;Bacciarellego / pêtla autobusowa;51.10224;17.11645;6
+179;15178;Œredzka / Dolnobrzeska;51.14597;16.86692;10
+180;15179;Mi³oszycka / Swojczycka;51.11464;17.13042;6
+181;15180;Stab³owicka / G³ówna;51.16322;16.89648;6
+182;15181;Wojanowska / Arbuzowa;51.15435;16.89888;10
+183;15182;Osobowicka / Ostrowska;51.14382;16.98789;6
+184;15183;Kie³czowska;51.14574;17.13493;6
+185;15184;Gorlicka / Litewska;51.141797;17.123711;6
+186;15185;Kasprowicza / Syrokomli;51.137258;17.048546;6
+187;15186;Paprotna / Obornicka, zajezdnia MPK;51.148528;17.020477;6
+188;15187;Kosmonautów / Fieldorfa, szpital wojewódzki;51.14221;16.90591;6
+189;15188;Stab³owicka;51.171074;16.902364;6
+190;15189;Mr¹gowska / Rolna;51.149606;16.938033;6
+191;15190;Partyzantów / Okrzei;51.109457;17.097924;6
+192;15191;Hubska / Prudnicka;51.089572;17.045321;10
+193;15192;Jagodziñska / Buforowa;51.05864;17.05717;4
+194;15193;Ko³³¹taja / Podwale;51.103854;17.03678;10
+195;15194;Opolska / Siemianowicka;51.071275;17.090906;10
+196;15195;Piaskowa / œw. Ducha;51.11289;17.03971;16
+197;15196;Kleciñska / Duñska;51.109433;16.969097;10
+198;15197;pl. Orl¹t Lwowskich;51.10823;17.02138;16
+199;15198;Komandorska / Kamienna;51.09009;17.0235;10
+200;15199;Wroc³aw Stadion, stacja kolejowa;51.13707;16.94095;6
+201;15200;Wroc³aw Leœnica, stacja kolejowa;51.14323;16.86627;10
+202;15167;Stadion Olimpijski;51.11803073;17.09556341;10
+203;15254;Popowice;51.129565;16.989853;6
+204;15255;Grota-Roweckiego / Iwaszkiewicza;51.05687;17.03236;6
+205;15256;Kowalska/Lechitów;51.13197;17.11071;6
+206;15257;Kamieñskiego;51.15472;17.04376;6
+207;15258;Lubelska/£ukowska;51.165419;16.920266;6
+208;15259;Kwidzyñska pêtla;51.12776;17.10254;6
+209;15260;Rakowiecka;51.09761;17.06855;
+210;15261;Powstañców Œl¹skich/Orla;51.08;17.00773;6
+211;15262;Angel;51.103778;17.05155;
+212;15263;Kleciñska (Wroc³aw Grabiszyn);51.09724;16.97512;6
+213;15264;Rogowska/Sukielicka;51.11805;16.94632;6
+214;15265;Kozanowska/Pa³ucka;51.13863;16.97735;6
+215;15266;Pi³awska;51.07236;17.04294;6
+216;15267;Gorlicka/Stanety;51.14518;17.11679;6
+217;15268;3M;51.1277;17.11456;6
+218;15269;Gazowa/Miêdzyleska;51.07814;17.07026;6
+219;15270;Bezpieczna/Jugos³awiañska;51.13894;17.02028;6
+220;15271;Pi³sudskiego 13 od Jump Hall;51.1052;17.02123;6
+221;15272;Bardzka (cmentarz);51.07217;17.05281;6
+222;15273;Fabryczna (WSB);51.112377;16.982263;
