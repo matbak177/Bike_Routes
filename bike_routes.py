@@ -2,7 +2,7 @@ import arcpy
 import os
 
 #define a workspace folder
-folder=r"C:\Users\mateusz.bak\Desktop\ost"#change path
+folder=r"C:\Users\mateusz.bak\Desktop\programs\network"#change path
 nazwa="rower"
 
 #create geodatabase
